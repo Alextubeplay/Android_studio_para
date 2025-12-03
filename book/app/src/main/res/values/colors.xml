@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#7d7f7d</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="white_theme_background">#FFFFFF</color>
+    <color name="white_theme_rectangle">#EDF2F2</color>
+    <color name="white_theme_button">#C5C4B6</color>
+    <color name="white_theme_selection">#99AFAC</color>
+    <color name="white_theme_search">#96C1D3D5</color>
+    <color name="black_theme_background">#000000</color>
+    <color name="black_theme_rectangle">#1F1E1E</color>
+    <color name="black_theme_button">#34393A</color>
+    <color name="black_theme_selection">#677170</color>
+    <color name="black_theme_search">#964D5A5F</color>
+    <color name="day_theme_background">#5184A3</color>
+    <color name="day_theme_rectangle">#51C6E0</color>
+    <color name="day_theme_button">#76D9EF</color>
+    <color name="day_theme_selection">#C4FFFC</color>
+    <color name="day_theme_search">#9689F2F5</color>
+    <color name="night_theme_background">#421717</color>
+    <color name="night_theme_rectangle">#9F1313</color>
+    <color name="night_theme_button">#BB3D3D</color>
+    <color name="night_theme_selection">#C43838</color>
+    <color name="night_theme_search">#96FF7F7F</color>
+</resources>

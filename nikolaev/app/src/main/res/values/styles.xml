@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="choose_dres">
+        <item name="android:textSize">41sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:shadowColor">#33BCFF5E</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">6</item>
+        <item name="android:shadowRadius">0</item>
+    </style>
+</resources>
